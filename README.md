@@ -1,5 +1,5 @@
 
-<img src="electronics-commons.jpg" width="1000" >
+<img src="https://github.com/ee209-2020class/ee209-2020class.github.io/blob/master/ExtraInfo/logo.png" width="1000" >
 
 # TestRepo
 Information for students
