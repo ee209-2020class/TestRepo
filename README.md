@@ -1,5 +1,5 @@
 
-<img src="electronics-commons.jpg" width="1000">
+<img src="electronics-commons.jpg" width="1500">
 
 # TestRepo
 Information for students
