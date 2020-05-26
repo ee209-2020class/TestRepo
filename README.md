@@ -1,6 +1,6 @@
 # TestRepo
 Information for students
-Testing Slack
+Testing Slack :thumbsup:
 
 ```c
 /*Testing
