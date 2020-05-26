@@ -3,10 +3,10 @@ Information for students
 Testing Slack
 
 ```c
-/*Testing*/
+/*Testing
 int a;
 if (a<1)
 {
     a++
-}
+}*/
 ```
