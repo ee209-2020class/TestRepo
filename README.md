@@ -1,15 +1,3 @@
-
-<img src="https://github.com/ee209-2020class/ee209-2020class.github.io/blob/master/ExtraInfo/logo.png" width="1000" >
-
-# TestRepo
-Information for students
-Testing Slack :thumbsup:
-
-```c
-/*Testing
-int a;
-if (a<1)
-{
-    a++
-}*/
-```
+# Test Repository 
+- This repo is setup for students to test git installation :thumbsup:
+- Clone this repo and use it to test your GitHub Desktop and Git Bash intallations
